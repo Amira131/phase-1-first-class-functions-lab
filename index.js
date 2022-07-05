@@ -1,5 +1,5 @@
 
-const returnFirstTwoDrivers = (drivers) => {
+/*const returnFirstTwoDrivers = (drivers) => {
     return drivers.slice(0,2)
     
 } 
@@ -33,4 +33,6 @@ const selectDifferentDrivers = (array,cb) =>{
         
         return cb(array)
 
-}
+}*/
+
+
